@@ -1,4 +1,4 @@
-built
-.o
-pychache
-venv
+build/
+*.o
+__pycache__/
+venv/
